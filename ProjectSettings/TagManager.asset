@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Tag Coin
   - 'Ground '
+  - Missle
   layers:
   - Default
   - TransparentFX
