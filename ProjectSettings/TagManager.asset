@@ -4,9 +4,9 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - Tag Coin
-  - 'Ground '
-  - Missle
+  - Ground
+  - Coin
+  - Missile
   layers:
   - Default
   - TransparentFX
